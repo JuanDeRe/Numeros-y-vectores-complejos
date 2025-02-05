@@ -1,22 +1,37 @@
-# Numeros y espacios vectoriales complejos
+# Números y Espacios Vectoriales Complejos  
 
-Pruebas de propiedades de los numeros y espacios vectoriales complejos
+Este proyecto contiene pruebas de propiedades de los números y espacios vectoriales complejos utilizando Python.  
 
-### Prerequisitos
+## Prerrequisitos  
 
-Python instalado y las librerias numpy, matplotlib y ipywidgets 
+Antes de ejecutar los archivos, asegúrate de tener instalado:  
+
+- Python  
+- Las siguientes librerías de Python:  
+  - `numpy`  
+  - `matplotlib`  
+  - `ipywidgets`  
+
+Puedes instalarlas ejecutando:  
+
+```bash
+pip install numpy matplotlib ipywidgets
+```
 
 ### Instalacion
+Para trabajar con los ejercicios:
 
-Para los ejercicios con numeros complejos abrir el archivo ComplexInto.ipyb y para los ejercicios con espacios vectoriales complejos el archivo Complex_Vector_Matrix_Operations_with_NumPy.ipynb
+-Números complejos: Abre el archivo ComplexInto.ipynb.
+-Espacios vectoriales complejos: CompleComplex_Vector_Matrix_Operations_with_NumPy.ipynb.
+-Producto interno y vectores propios: TallerEsp.Vect-ProdInterno-VectoPropios.ipynb
 
 ## Ejecutar los test
 
-Darle click el boton de ejecuar que se encuentra en la parte superior izquierda de cada bloque de codigo
+Para ejecutar los tests, haz clic en el botón de ejecución que se encuentra en la parte superior izquierda de cada bloque de código en Jupyter Notebook.
 
 ### Como funcionan los test
 
-Cada test corresponde al ejercicio que se propone en el texto anterior a este, cada uno imprime lo pedido en el ejercicio, algunos imprimen imagenes porque es la especificacion pedida.
+Cada test corresponde a un ejercicio propuesto en el texto previo a su ejecución. Algunos tests generan salidas en forma de texto, mientras que otros imprimen imágenes según las especificaciones del ejercicio.
 
 
 ## Authors
