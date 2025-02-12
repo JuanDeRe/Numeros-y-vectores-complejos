@@ -3,7 +3,7 @@
 Para ejecutar los tests en los notebooks de este proyecto, sigue estos pasos:
 
 1. **Abre el notebook**: Navega hasta el archivo `.ipynb` que deseas ejecutar (por ejemplo, `TallerEsp.Vect-Hermitian-Unitary-Tensor-Circuits.ipynb`).
-2. **Ejecuta las celdas**: Haz clic en el botón de ejecución (▶️) que se encuentra en la parte superior izquierda de cada bloque de código. Asegúrate de ejecutar las celdas en orden, ya que algunas dependen de resultados previos.
+2. **Ejecuta las celdas**: Haz clic en el botón de ejecución que se encuentra en la parte superior izquierda de cada bloque de código. Asegúrate de ejecutar las celdas en orden, ya que algunas dependen de resultados previos.
 3. **Observa los resultados**: Los tests generarán salidas en forma de texto, gráficos o valores numéricos, dependiendo del ejercicio. Asegúrate de revisar cada resultado para verificar que coincide con lo esperado.
 
 ### Requisitos adicionales
